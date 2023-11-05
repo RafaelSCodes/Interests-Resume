@@ -1,0 +1,39 @@
+* {
+    background-color:#ffffff;
+}
+
+#profile-pic {
+    width: 300px;
+    height: 300px;
+}
+
+#interests {
+    width: 500px;
+    height: 350px;
+}
+
+#martial-arts {
+    width: 300px;
+    height: 300px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.first {
+    color:#6643b5;
+}
+
+.second {
+    color:#42b883;
+}
+    
+.third {
+    color:#e84a5f;
+}
+
+.fourth {
+    color:#8dc6ff;
+}
